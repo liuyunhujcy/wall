@@ -1,0 +1,2 @@
+# wall
+photo,video
